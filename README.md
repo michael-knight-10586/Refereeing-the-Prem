@@ -2,7 +2,7 @@
 
 This project asks how Premier League refereeing performance is influenced by recent events. It is designed to include a range of Azure Databricks features that support production level code.
 
-## Hypothesis
+## Theory
 
 Do referees officiate each game independently of their own recent performances or do they compensate in some way? In an ideal world referees would make decisions correctly and independently of outside factors, such as recent events or their own recent performance. But in reality are they internally monitoring their own performances and hoping it conforms to expectation? For any Premier league match we have bookmakers' odds on the likely number of red and yellow cards from which we derive an implied probability of the sum of each. In any given game the referee will brandish more or less than an expected average. This will largely be due to the randomness of in-game events. Over time we can create a league table of referee performance where we rank officials from highest to lowest in the propensity to punish players compared to expectation.
 
