@@ -20,4 +20,4 @@ Here I want to publish a simple model on a subset where we can see the full proc
 
 ## Machine Learning
 
-The aim here is a simplicity of design and for results. We are interested in only one factor; the effect of recent performance and I will use logistic regression.
+The aim here is a simplicity of design and for results. We are interested in only one factor; the effect of recent performance. I will write a hypothesis and conduct tests using binomial probability.
