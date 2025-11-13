@@ -1,6 +1,6 @@
 # Refereeing-the-Prem: Reflexivity in refereeing performance
 
-This project asks how Premier League refereeing performance is influenced by recent events. 
+This project asks how Premier League refereeing performance is influenced by recent events. It is designed to include a range of Azure Databricks features that support production level code.
 
 ## Hypothesis
 
@@ -11,7 +11,7 @@ In reviewing games the Premier League Game Match officials analyse decision-maki
 ## Usage
 
 This is part of a wider project that takes freely available football match data and creates benchmark models through machine learning. We could use this as the basis of a betting strategy. More likely the effect we will be too small among other factors to create an edge over the market and the bookmakers' over-round. 
-Here I want to publish a simple model on a subset where we can see the full process in Azure Databricks through CI/CD where our output is probabilities for sports traders.
+Here I want to publish a simple model on a subset where we can see the full process in Azure Databricks for CI/CD where our output is probabilities for sports traders.
 
 ## Technologies Used
 * Azure Data Lake Storage
